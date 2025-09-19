@@ -1,0 +1,6 @@
+kivy
+pyjnius
+python-telegram-bot==13.15
+pyttsx3
+requests
+cryptography
