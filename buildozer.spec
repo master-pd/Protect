@@ -2,6 +2,7 @@
 title = Ultimate Anti-Theft Pro
 package.name = ultimateantitheftpro
 package.domain = org.marpd
+source.dir = .        # <-- এটা add করতে হবে (current directory)
 source.include_exts = py,png,jpg,kv,txt,json
 version = 1.0
 requirements = python3,kivy,pyjnius,python-telegram-bot,pyttsx3,requests,cryptography
